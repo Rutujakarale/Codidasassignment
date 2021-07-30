@@ -1,4 +1,4 @@
-public final class GameOfLife {
+public  class GameOfLife {
 
     // The value representing a dead cell
     public final static int DEAD    = 0x00;
